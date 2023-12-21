@@ -1,4 +1,5 @@
 const numero = 10;
+const mensaje = "hola como estas?"
 const nombre = franco;
 const landing = serena;
 const estado = activo;
