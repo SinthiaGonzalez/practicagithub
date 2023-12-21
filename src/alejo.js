@@ -1,0 +1,2 @@
+const animal=127;
+
