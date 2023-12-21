@@ -1,0 +1,1 @@
+const lavariablequequierasm= 15;
